@@ -1,0 +1,19 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "Note Taking Ap",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybercode2000/Note-app.git"
+  },
+  "author": "cybercode2000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cybercode2000/Note-app/issues"
+  },
+  "homepage": "https://github.com/cybercode2000/Note-app#readme"
+}
