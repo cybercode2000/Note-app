@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/cybercode2000/Note-app/issues"
   },
-  "homepage": "https://github.com/cybercode2000/Note-app#readme"
+  "homepage": "https://github.com/cybercode2000/Note-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.3"
+  }
 }
