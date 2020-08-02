@@ -1,6 +1,5 @@
 var url = require("url");
 var fs = require("fs");
-const { parse } = require("querystring");
 
 var body = "";
 const date = new Date();
